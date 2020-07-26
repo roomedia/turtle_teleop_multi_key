@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>turtle_teleop</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>
     Provides teleoperation using multi-key input for Turtlesim/Turtlebot3.
   </description>
