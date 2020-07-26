@@ -2,7 +2,7 @@
 Changelog for package turtle_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.0 (2020-07-26)
+0.0.1 (2020-07-26)
 -----------
 * fix node name...
 * make launch file
