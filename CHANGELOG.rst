@@ -2,6 +2,11 @@
 Changelog for package turtle_teleop_multi_key
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2020-07-26)
+------------------
+* run only in python2
+* Contributors: EngHyu
+
 0.0.2 (2020-07-26)
 ------------------
 * change name with more explain
