@@ -22,11 +22,11 @@ ROS Melodic
 # Launch
 for turtlebot 3:
 ```
-roslaunch turtle_teleop turtle_teleop_multi_key.launch
+roslaunch turtle_teleop_multi_key turtle_teleop_multi_key.launch
 ```
 for turtlesim:
 ```
-roslaunch turtle_teleop turtle_teleop_multi_key.launch topic_type:=turtlesim
+roslaunch turtle_teleop_multi_key turtle_teleop_multi_key.launch topic_type:=turtlesim
 ```
 
 # License
