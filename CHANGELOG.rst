@@ -2,6 +2,13 @@
 Changelog for package turtle_teleop_multi_key
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2020-08-21)
+------------------
+* fix launch file path
+* generalize python code
+* add documentation url
+* Contributors: EngHyu
+
 0.0.3 (2020-07-26)
 ------------------
 * run only in python2
